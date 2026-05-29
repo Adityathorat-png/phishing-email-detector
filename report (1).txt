@@ -1,0 +1,7 @@
+
+========== PHISHING EMAIL REPORT ==========
+
+Accuracy: 66.67%
+
+Prediction:
+safe
